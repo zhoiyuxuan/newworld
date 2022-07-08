@@ -1,6 +1,6 @@
 from PyQt5.Qt import *
 import sys
-
+print('hello world!')
 app=QApplication(sys.argv)
 
 win=QWidget()
